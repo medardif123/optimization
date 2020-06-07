@@ -1,0 +1,2 @@
+﻿  graph.cpp
+C:\Users\HP\source\repos\Stochastic Gradient\Stochastic Gradient\graph.cpp(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'GL/glew.h' : No such file or directory

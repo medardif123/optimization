@@ -1,0 +1,17 @@
+﻿  graph.cpp
+C:\Users\HP\optimization\Stochastic Gradient\Stochastic Gradient\graph.cpp(11,17): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\HP\optimization\Stochastic Gradient\Stochastic Gradient\graph.cpp(18,15): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+C:\Users\HP\optimization\Stochastic Gradient\Stochastic Gradient\graph.cpp(25,25): warning C4244: 'argument' : conversion de 'double' en '_Ty', perte possible de données
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\HP\optimization\Stochastic Gradient\Stochastic Gradient\graph.cpp(109,25): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\HP\optimization\Stochastic Gradient\Stochastic Gradient\graph.cpp(173,54): warning C4305: '+=' : troncation de 'double' à 'float'
+C:\Users\HP\optimization\Stochastic Gradient\Stochastic Gradient\graph.cpp(190,31): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\HP\optimization\Stochastic Gradient\Stochastic Gradient\graph.cpp(201,51): warning C4305: '+=' : troncation de 'double' à 'float'
+C:\Users\HP\optimization\Stochastic Gradient\Stochastic Gradient\graph.cpp(210,31): warning C4018: '<' : incompatibilité signed/unsigned
+LINK : warning LNK4098: conflit entre la bibliothèque par défaut 'MSVCRT' et les autres bibliothèques ; utilisez /NODEFAULTLIB:library
+LINK : warning LNK4098: conflit entre la bibliothèque par défaut 'LIBCMT' et les autres bibliothèques ; utilisez /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' n'a pu être trouvé avec 'glew32s.lib(glew.obj)' ou sur 'C:\Users\HP\optimization\Stochastic Gradient\Debug\vc120.pdb' ; l'objet sera lié sans informations de débogage
+  Stochastic Gradient.vcxproj -> C:\Users\HP\optimization\Stochastic Gradient\Debug\Stochastic Gradient.exe
